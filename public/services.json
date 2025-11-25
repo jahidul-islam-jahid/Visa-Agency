@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "visa_type": "Work Visa",
+    "short_description": "A long-term visa for foreign employees and workers.",
+    "full_description": "A Work Visa allows skilled professionals to live and work legally in a foreign country. Applicants must have a valid job offer, employer sponsorship, and meet specific eligibility criteria.",
+    
+    "processing_time": "4–12 weeks",
+    
+    "required_documents": [
+      "Valid passport (minimum 6 months validity)",
+      "Passport-size photographs",
+      "Job offer letter",
+      "Work contract",
+      "Medical clearance certificate",
+      "Police clearance certificate",
+      "Academic certificates",
+      "Visa application form"
+    ],
+    
+    "eligibility": [
+      "Minimum age 18+",
+      "Valid job offer from a foreign employer",
+      "Relevant work experience",
+      "No criminal record",
+      "Healthy medical condition"
+    ],
+
+    "fees": "150–350 USD (country dependent)",
+
+    "steps": [
+      "Submit required documents",
+      "Receive employer sponsorship",
+      "Attend visa interview",
+      "Wait for processing",
+      "Receive visa approval",
+      "Travel to your destination country"
+    ],
+
+    "button_text": "Apply Now",
+    "icon": "FaBriefcase",
+    "image": "/image/work-visa.jpg",
+    "banner_image": "/images/work-visa-banner.jpg"
+  },
+
+  {
+    "id": 2,
+    "category_id": 2,
+    "visa_type": "Student Visa",
+    "short_description": "Visa for studying abroad.",
+    "full_description": "A Student Visa allows individuals to study at foreign universities or institutions.",
+    "processing_time": "2–8 weeks",
+    "required_documents": ["Passport", "University acceptance letter", "Bank statement"],
+    "eligibility": ["High school or equivalent qualification", "Valid admission letter"],
+    "fees": "100–200 USD",
+    "steps": ["Submit documents", "Pay visa fee", "Attend interview"],
+    "button_text": "Apply Now",
+    "icon": "FaBook",
+    "image": "/image/Student Visa.jpg",
+    "banner_image": "/images/student-visa-banner.jpg"
+  },
+
+  {
+    "id": 3,
+    "category_id": 3,
+    "visa_type": "Business Visa",
+    "short_description": "Visa for business meetings and commercial activities.",
+    "full_description": "A Business Visa is ideal for short-term trips involving meetings, trade fairs, or commercial activities.",
+    "processing_time": "1–4 weeks",
+    "required_documents": ["Passport", "Invitation letter", "Company documents"],
+    "eligibility": ["Valid business purpose", "Financial stability"],
+    "fees": "80–150 USD",
+    "steps": ["Submit documents", "Business verification", "Get approval"],
+    "button_text": "Apply Now",
+    "icon": "FaBusinessTime",
+    "image": "/image/business visa.jpg",
+    "banner_image": "/images/business-visa-banner.jpg"
+  },
+
+  {
+    "id": 4,
+    "category_id": 4,
+    "visa_type": "Family Visa",
+    "short_description": "Visa for joining family abroad.",
+    "full_description": "A Family Visa lets individuals stay with relatives in a foreign country.",
+    "processing_time": "6–16 weeks",
+    "required_documents": ["Passport", "Family relationship proof"],
+    "eligibility": ["Immediate relatives"],
+    "fees": "120–200 USD",
+    "steps": ["Submit documents", "Relationship verification"],
+    "button_text": "Apply Now",
+    "icon": "FaUsers",
+    "image": "/image/family visa.jpg",
+    "banner_image": "/images/family-visa-banner.jpg"
+  },
+
+  {
+    "id": 5,
+    "category_id": 5,
+    "visa_type": "Travel Visa",
+    "short_description": "Short trips for tourism and leisure.",
+    "full_description": "A Travel Visa is ideal for tourism or short-term visits.",
+    "processing_time": "1–3 weeks",
+    "required_documents": ["Passport", "Hotel booking", "Return ticket"],
+    "eligibility": ["Financial ability to travel"],
+    "fees": "50–120 USD",
+    "steps": ["Submit documents", "Background check"],
+    "button_text": "Apply Now",
+    "icon": "FaPlaneDeparture",
+    "image": "/image/travel visa.jpg",
+    "banner_image": "/images/travel-visa-banner.jpg"
+  },
+
+  {
+    "id": 6,
+    "category_id": 6,
+    "visa_type": "Transit Visa",
+    "short_description": "Short stay during flight connection.",
+    "full_description": "A Transit Visa allows travelers to stay briefly in a country while transferring to another destination.",
+    "processing_time": "1–5 days",
+    "required_documents": ["Passport", "Next flight ticket"],
+    "eligibility": ["Must have onward ticket"],
+    "fees": "20–50 USD",
+    "steps": ["Submit documents", "Quick verification"],
+    "button_text": "Apply Now",
+    "icon": "FaPlaneArrival",
+    "image": "/image/transit visa.jpg",
+    "banner_image": "/images/transit-visa-banner.jpg"
+  }
+]

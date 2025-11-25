@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "category_id": 101,
+    "visa_type": "Work Visa"
+  },
+  {
+    "id": 2,
+    "category_id": 102,
+    "visa_type": "Student Visa"
+  },
+  {
+    "id": 3,
+    "category_id": 103,
+    "visa_type": "Business Visa"
+  },
+  {
+    "id": 4,
+    "category_id": 104,
+    "visa_type": "Family Visa"
+  },
+  {
+    "id": 5,
+    "category_id": 105,
+    "visa_type": "Travel Visa"
+  },
+  {
+    "id": 6,
+    "category_id": 106,
+    "visa_type": "Transit Visa"
+  }
+]
