@@ -3,10 +3,12 @@ import { BiSupport } from "react-icons/bi";
 import { GrSecure } from "react-icons/gr";
 import { VscWorkspaceTrusted } from "react-icons/vsc";
 import Service from "../Services/Service";
+import Choose from "../ChooseComponents/Choose";
+import Country from "../Countries/Country";
 
 function Home() {
   return (
-    <div>
+    <div className="">
       <section className="flex items-center ">
         <div className="container mx-auto rounded-xl px-4 sm:px-6 lg:px-0 bg-blue-50  border-b-4 border-white">
           <div className="flex flex-col-reverse lg:flex-row items-center gap-8 lg:gap-12">
@@ -75,6 +77,8 @@ function Home() {
         </div>
       </section>
       <Service></Service>
+      <Choose></Choose>
+      <Country></Country>
     </div>
   );
 }

@@ -11,6 +11,7 @@ import Process from './Process/Process';
 import Blog from './Blog/Blog';
 import Contact from './Contact/Contact';
 import ServiceDetails from './Services/ServiceDetails';
+import CountryDetails from './Countries/CountryDetails';
 
 const router = createBrowserRouter([
   {
@@ -21,6 +22,7 @@ const router = createBrowserRouter([
       { path: "/service", element: <Service></Service> },
       { path: "/service/:id", element: <ServiceDetails></ServiceDetails> },
       { path: "/country", element: <Country></Country> },
+      { path: "/country/:id", element: <CountryDetails></CountryDetails>},
       { path: "/process", element: <Process></Process> },
       { path: "/blog", element: <Blog></Blog> },
       { path: "/contact", element: <Contact></Contact> },

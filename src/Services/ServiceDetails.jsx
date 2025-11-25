@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { useParams } from "react-router";
+import { Link, useParams } from "react-router";
 
 function ServiceDetails() {
   const { id } = useParams();
@@ -155,10 +155,12 @@ function ServiceDetails() {
 
             {/* Buttons */}
             <div className="mt-10 flex flex-col sm:flex-row gap-5 justify-center">
-              <button className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-lg font-semibold transition">
+              <Link
+              to="/contact" 
+               className="bg-blue-600 hover:bg-blue-700 text-white cursor-pointer px-10 py-3 rounded-lg font-semibold transition">
                 Apply Now
-              </button>
-              <button className="border border-blue-600 text-blue-600 hover:bg-blue-50 px-10 py-3 rounded-lg font-semibold transition">
+              </Link>
+              <button className="border border-blue-600 cursor-pointer text-blue-600 hover:bg-blue-50 px-10 py-3 rounded-lg font-semibold transition">
                 Learn More
               </button>
             </div>

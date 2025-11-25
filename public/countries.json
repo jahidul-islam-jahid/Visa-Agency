@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "country": "Canada",
+    "image": "/image/canada.svg",
+    "button_text": "View Visas",
+    "short_description": "Canada is known for high-quality education, work opportunities, and immigration pathways.",
+    "full_description": "Canada is one of the most welcoming countries in the world, offering excellent job opportunities, world-class education, and a peaceful lifestyle. Thousands of international students and workers migrate to Canada every year for a better future.",
+    "popular_cities": ["Toronto", "Vancouver", "Montreal", "Calgary"],
+    "processing_time": "4–12 Weeks",
+    "visa_fee_range": "$120 – $350",
+    "requirements": [
+      "Valid Passport",
+      "Proof of Funds",
+      "Medical Certificate",
+      "Police Clearance",
+      "Education/Work Documents"
+    ],
+    "visas": [
+      { "visa_id": 1, "visa_type": "Work Visa" },
+      { "visa_id": 2, "visa_type": "Student Visa" },
+      { "visa_id": 3, "visa_type": "Visitor Visa" }
+    ]
+  },
+  {
+    "id": 2,
+    "country": "Australia",
+    "image": "/image/australia.jpg",
+    "button_text": "View Visas",
+    "short_description": "Australia offers great education, sunshine, and high-demand skilled jobs.",
+    "full_description": "Australia is one of the top destinations for international students and skilled workers. With beautiful beaches, a strong economy, and high living standards, it attracts migrants from all over the world.",
+    "popular_cities": ["Sydney", "Melbourne", "Brisbane", "Perth"],
+    "processing_time": "3–10 Weeks",
+    "visa_fee_range": "$150 – $420",
+    "requirements": [
+      "Valid Passport",
+      "English Language Proof",
+      "Financial Stability",
+      "Education/Work Records"
+    ],
+    "visas": [
+      { "visa_id": 1, "visa_type": "Work Permit" },
+      { "visa_id": 2, "visa_type": "Study Visa" },
+      { "visa_id": 3, "visa_type": "Tourist Visa" }
+    ]
+  },
+  {
+    "id": 3,
+    "country": "United Kingdom",
+    "image": "/image/uk.png",
+    "button_text": "View Visas",
+    "short_description": "The UK is known for top-ranking universities and global job opportunities.",
+    "full_description": "The United Kingdom remains one of the most popular destinations for students and professionals seeking career advancement. It offers world-class education, a rich culture, and global-level employment opportunities.",
+    "popular_cities": ["London", "Manchester", "Birmingham", "Edinburgh"],
+    "processing_time": "2–8 Weeks",
+    "visa_fee_range": "$130 – $480",
+    "requirements": [
+      "Valid Passport",
+      "CAS Letter (For Students)",
+      "Job Offer Letter (For Work)",
+      "Bank Statement",
+      "TB Test Certificate"
+    ],
+    "visas": [
+      { "visa_id": 1, "visa_type": "Skilled Worker Visa" },
+      { "visa_id": 2, "visa_type": "Student Visa" },
+      { "visa_id": 3, "visa_type": "Family Visa" }
+    ]
+  },
+  {
+    "id": 4,
+    "country": "United States",
+    "image": "/image/usa.png",
+    "button_text": "View Visas",
+    "short_description": "The USA offers the world’s strongest job market and leading universities.",
+    "full_description": "The United States is a dream destination for many students and professionals. It provides advanced education, top-level jobs, and endless opportunities for innovation and career growth.",
+    "popular_cities": ["New York", "Los Angeles", "Chicago", "Houston"],
+    "processing_time": "3–14 Weeks",
+    "visa_fee_range": "$160 – $400",
+    "requirements": [
+      "Valid Passport",
+      "SEVIS Payment (Student Visa)",
+      "Job Sponsorship (H1B)",
+      "Financial Proof",
+      "Interview at Embassy"
+    ],
+    "visas": [
+      { "visa_id": 1, "visa_type": "H1B Work Visa" },
+      { "visa_id": 2, "visa_type": "F1 Student Visa" },
+      { "visa_id": 3, "visa_type": "Tourist Visa (B1/B2)" }
+    ]
+  },
+  {
+    "id": 5,
+    "country": "Japan",
+    "image": "/image/japan.jpg",
+    "button_text": "View Visas",
+    "short_description": "Japan is famous for technology, discipline, and unique cultural experiences.",
+    "full_description": "Japan provides high-quality life standards, excellent job opportunities in IT & engineering, and advanced education facilities. It is also one of the safest countries in the world.",
+    "popular_cities": ["Tokyo", "Osaka", "Kyoto", "Yokohama"],
+    "processing_time": "2–6 Weeks",
+    "visa_fee_range": "$90 – $200",
+    "requirements": [
+      "Passport & Photos",
+      "COE (Certificate of Eligibility)",
+      "Employment/University Letter",
+      "Financial Statement"
+    ],
+    "visas": [
+      { "visa_id": 1, "visa_type": "Work Visa" },
+      { "visa_id": 2, "visa_type": "Student Visa" },
+      { "visa_id": 3, "visa_type": "Business Visa" }
+    ]
+  },
+  {
+    "id": 6,
+    "country": "Dubai",
+    "image": "/image/dubai.jpg",
+    "button_text": "View Visas",
+    "short_description": "Dubai is known for tax-free income, luxury lifestyle, and fast work visa processing.",
+    "full_description": "Dubai has become a global hub for business, tourism, construction, and hospitality. Thousands of expats move here every year for better salary options and rapid career growth.",
+    "popular_cities": ["Dubai", "Abu Dhabi", "Sharjah"],
+    "processing_time": "1–4 Weeks",
+    "visa_fee_range": "$100 – $250",
+    "requirements": [
+      "Valid Passport",
+      "Medical Test",
+      "Job Contract",
+      "Emirates ID Registration"
+    ],
+    "visas": [
+      { "visa_id": 1, "visa_type": "Work Visa" },
+      { "visa_id": 2, "visa_type": "Freelance Visa" },
+      { "visa_id": 3, "visa_type": "Tourist Visa" }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "category_id": 1,
+    "country_name": "Canada"
+  },
+  {
+    "category_id": 2,
+    "country_name": "Australia"
+  },
+  {
+    "category_id": 3,
+    "country_name": "United Kingdom"
+  },
+  {
+    "category_id": 4,
+    "country_name": "United States"
+  },
+  {
+    "category_id": 5,
+    "country_name": "Germany"
+  },
+  {
+    "category_id": 6,
+    "country_name": "Japan"
+  }
+]
